@@ -1,0 +1,9 @@
+# Ignorar dados (só baixar)
+data/
+
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.rar
+*.gz
